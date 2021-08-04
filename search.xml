@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>桜</title>
+      <link href="/2021/08/04/sakula/"/>
+      <url>/2021/08/04/sakula/</url>
+      
+        <content type="html"><![CDATA[<h3 id="日本の国の花は桜ですか"><a href="#日本の国の花は桜ですか" class="headerlink" title="日本の国の花は桜ですか"></a>日本の国の花は桜ですか</h3><p>日本では特に法律で国花を定め（さだめ）てはいませんが、</p><p>広く国民（こくみん）に愛されている桜は国の花と言っていいでしょう。<br>　　また、皇室（こうしつ）の象徴である菊（きく）も国内で日本の国花（こっか）と見られています。</p><blockquote><p>日本的国花是樱花吗？<br>       虽然在日本法律上没有指定为国花，但是一直广受国民喜爱的樱花可以说是日本的国花。<br>       另外，菊花是日本皇室的象征在日本国内也被一直视为是国花</p></blockquote><p><img src="sakura05.png"></p><p><img src="sakura02.png"></p><h3 id="日本人はなぜ桜が好きなのですか"><a href="#日本人はなぜ桜が好きなのですか" class="headerlink" title="日本人はなぜ桜が好きなのですか"></a>日本人はなぜ桜が好きなのですか</h3><p>なんといっても(毕竟,无论怎么说，首先)桜の美しさ（うつくしさ）でしょう。</p><p>桜は春先になると葉（は）より先につぼみをつけ、一定以上の気温になると一斉（いっせい）に開花（かいか）します。</p><p>花の色は近くで見るとほとんど白ですが、離れ（はなれ）てみると淡い（あわい）ピンク色で、桜並木（さくらなみき　行道樱花树）はまるでピンク色の霧（きり）のように幻想（げんそう）的に見えます。</p><p>10日間はどの開花時期を過ぎると、風に吹かれて雪のように花びら（花瓣）が散って（ちらく）いき、あっという間に花がなくなってしまいます。この美しさとはかなさが人を引き付けて(吸引，引诱，诱惑）やまないです</p><blockquote><p>日本人为什么喜欢樱花？<br>最大的理由是樱花是格外美吧。<br>一到初春樱花是先结成花蕾在绿叶发芽之前，到达一定的气温就会一齐绽放。<br>虽然近看的话花的颜色大体是白色的，但是远眺是淡粉色的，沿街的樱花树好像粉色的雾把人带入到梦境。<br>一旦10天左右的花期一过，风一吹好像雪花片片散落，一眨眼花就消散不见了。<br>这样稍纵即逝的美是忍不住吸引人的。</p></blockquote><p><img src="sakura03.png"></p><p><img src="sakura04.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Japan </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Japanese culture </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/08/04/hello-world/"/>
+      <url>/2021/08/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown的使用方法</title>
       <link href="/2021/07/19/markdown/"/>
       <url>/2021/07/19/markdown/</url>
@@ -55,19 +93,6 @@
             <tag> Linux </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2021/07/18/hello-world/"/>
-      <url>/2021/07/18/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
