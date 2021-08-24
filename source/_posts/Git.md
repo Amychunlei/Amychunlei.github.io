@@ -1,24 +1,8 @@
 ---
-title: Git的使用方法
-date: 2021-07-12 16:22:41
-tags: 
-- git
-- nvidia
-# - tags should be about the exact topic of the post
-categories: 
-- notes
-- rant
-# - categories should be about the type of post in relation to the website, it should NOT be about the topic of the post, which is left to "tags"
-permalink: "git.html" 
-# url of the post, should end with html, and convenient to have this field since changes are reflected instantly 
-lang: 
-# only set to override auto-detection (needed if not writing an English post, check _config.yml)
-comments:
-# whether to enable comments for post or not
-summary: Setting up a dual-boot personal workstation with windows10/OpenSUSE leap 15.3 in 2021. 
-# "Insert TL;DR about your post here"
+title: git的使用方法
+date: 2021-07-19 07:43:17
+tags: git
 ---
-
 # Git
 
 
@@ -97,7 +81,7 @@ Git 是开源的分布式版本控制系统，主要是用于敏捷高效地处�
 
 4. cd . . /.. :回退到上的两个目录
 
-5.  pwd : 显示当前所在的目录路径。
+5. pwd : 显示当前所在的目录路径。
 
 6. ls(ll): 列出当前目录中的所有文件，ll列出的内容更为详细。
 
@@ -157,7 +141,7 @@ Git 是开源的分布式版本控制系统，主要是用于敏捷高效地处�
     git config --global --list
     ```
 
--  **查看相关的配置文件**
+- **查看相关的配置文件**
 
   - system 系统级
 
@@ -345,4 +329,3 @@ doc/*.txt    #会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
 ```
 
 ## 
-

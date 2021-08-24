@@ -11,7 +11,7 @@ categories: Japan
 
 > 药妆店本来是销售医药品的商店，包括保健药品，化妆品和洗涤剂等日用品，因为廉价出售，因此成长为吸引众多顾客的大型店铺了，如今每条街都有几家店铺。
 
- <img src="drugstor\薬局.jfif" style="zoom:80%;" /> 
+ <img src="drugstor\薬局.jpg" style="zoom:80%;" /> 
 
 ### 薬局はどうして洗剤などの日用品を売っているのですか
 
@@ -19,7 +19,7 @@ categories: Japan
 
 >一般医药品相比，化妆品和洗涤剂等日常用品更容易贩卖，许多商品的话，顾客除了购买要买的商品以外还会购买其他商品。因此，出于促销目的也放一些日常用品
 
- <img src="drugstor\薬局2.jfif" style="zoom:80%;" /> 
+ <img src="drugstor\薬局2.jpg" style="zoom:80%;" /> 
 
 ### ドラッグストアの店員はみな薬剤師の資格を持っているのですか
 
@@ -45,4 +45,4 @@ categories: Japan
 >
 >只是，百货店里的化妆品都是高档品牌，价格不菲。
 
- <img src="drugstor\images2.jfif" style="zoom: 80%;" /> 
+ <img src="drugstor\images2.jpg" style="zoom: 80%;" /> 

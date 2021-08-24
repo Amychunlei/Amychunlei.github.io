@@ -5,6 +5,10 @@ tags: Japanese culture
 categories: Japan
 ---
 
+# 城市与农村　（都市と農村）
+
+
+
 ### 日本の都市府県とはどのような区分けですか
 
 都道府県（とどうふけん）は、一番大きな行政単位で、中国の省レベルに相当します。
@@ -15,7 +19,7 @@ categories: Japan
 >
 > 都是东京都，道是北海道，府是大阪府和京都府，和43个县。
 
- <img src="area\都市府県.jfif"  /> 
+ <img src="area\都市府県.jpg"  /> 
 
 ### 関東、関西、近畿（きんき）、中国などはどのように分けられているのでしょうか
 
@@ -23,7 +27,7 @@ categories: Japan
 
 这些地方是根据地理，地形，历史和文化背景划分的。基于江户时代的幕藩体制划分的
 
-
+<img src="D:\blog\source\_posts\area\kansaikinki.png"  style="zoom:80%;" />
 
 ### 政令指定都市とはどういうものですか
 
@@ -37,5 +41,8 @@ categories: Japan
 >
 > 每个指定城市因为福祉，医疗，教育等一部分权限的城市中独立于道，府，县等。
 
- <img src="area\政令指定都市.jfif" style="zoom:150%;" /> 
 
+
+![](D:\blog\source\_posts\area\政令指定都市.jpg)
+
+![](D:\blog\source\_posts\area\政令指定都市2.png)
