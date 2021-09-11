@@ -19,11 +19,11 @@ categories: Japan
 
 
 
-![](D:\blog\source\_posts\manner\喫煙2.jpg)
+![](喫煙2.jpg)
+
+![](喫煙.jpg)
 
 
-
-<img src="D:\blog\source\_posts\manner\喫煙.jpg"  />
 
 ### 電車やバスの中で携帯電話は使えないのですか
 
@@ -37,7 +37,7 @@ categories: Japan
 
 
 
-![](D:\blog\source\_posts\manner\ダウンロード.jpg)
+![](ダウンロード.jpg)
 
 ### 会議中に携帯電話にかかってきたときはどうするのですか
 
@@ -66,4 +66,4 @@ categories: Japan
 
 > 以前，垃圾扔在路上可以返归自然，现在像塑料类的垃圾不能自然腐烂，因此不能胡乱的扔弃。垃圾在指定的地方丢弃。没有垃圾箱的时候带回家处理
 
-![](D:\blog\source\_posts\manner\ダウンロード (1).jpg)
+![](ダウンロード (1).jpg)

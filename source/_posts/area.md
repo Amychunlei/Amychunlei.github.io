@@ -19,7 +19,7 @@ categories: Japan
 >
 > 都是东京都，道是北海道，府是大阪府和京都府，和43个县。
 
- <img src="area\都市府県.jpg"  /> 
+![](都市府県.jpg)
 
 ### 関東、関西、近畿（きんき）、中国などはどのように分けられているのでしょうか
 
@@ -27,7 +27,9 @@ categories: Japan
 
 这些地方是根据地理，地形，历史和文化背景划分的。基于江户时代的幕藩体制划分的
 
-<img src="D:\blog\source\_posts\area\kansaikinki.png"  style="zoom:80%;" />
+
+
+![](kansaikinki.png)
 
 ### 政令指定都市とはどういうものですか
 
@@ -43,6 +45,6 @@ categories: Japan
 
 
 
-![](D:\blog\source\_posts\area\政令指定都市.jpg)
+![](政令指定都市.jpg)
 
-![](D:\blog\source\_posts\area\政令指定都市2.png)
+![](政令指定都市2.png)
