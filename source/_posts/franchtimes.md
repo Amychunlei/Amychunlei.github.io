@@ -1,3 +1,9 @@
+---
+title: 法语的时态
+date: 2022-09-09 11:47:26
+tags: franch
+---
+
 # 法语的时态
 
 # 动词变位
@@ -51,9 +57,9 @@ Tu ranges ta chambre！整理一下你的房间！
 **第三组动词： 不规则动词，但是avoir, être 必须熟背，因为复合过去式的构**
 **成都与它们有关。**
 
-<img src="法语的时态.assets/image-20220908141154348.png" alt="image-20220908141154348" style="zoom:80%;" />
+<img src="franchtimes.assets/image-20220908141154348.png" alt="image-20220908141154348" style="zoom:80%;" />
 
-<img src="法语的时态.assets/image-20220908141202926.png" alt="image-20220908141202926" style="zoom:80%;" />
+<img src="franchtimes.assets/image-20220908141202926.png" alt="image-20220908141202926" style="zoom:80%;" />
 
 # 过去时
 
@@ -82,7 +88,7 @@ dîner → dîné manger → mangé
 finir → fini choisir → choisi
 **■其他动词变化不规则，需要单独记忆**
 
-![image-20220908141034778](法语的时态.assets/image-20220908141034778.png)
+![image-20220908141034778](franchtimes.assets/image-20220908141034778.png)
 
 #### 助动词 avoir 和être
 
@@ -165,19 +171,19 @@ L’accident a eu lieu vers minuit, pendant que tout le monde dormait.事故半�
 直陈式现在时复数第一人称的变位形式去掉词尾-ons 之后， 按照
 je,tu,il/elle,nous,vous,ils/elles 的人称次序分别加上**-ais,-ais,-ait,-ions,-iez,-aient**
 
-![image-20220909111707005](法语的时态.assets/image-20220909111707005.png)
+![image-20220909111707005](franchtimes.assets/image-20220909111707005.png)
 
 
 
 
 
-![image-20220909111720913](法语的时态.assets/image-20220909111720913.png)
+![image-20220909111720913](franchtimes.assets/image-20220909111720913.png)
 
 
 
-![image-20220909111736568](法语的时态.assets/image-20220909111736568.png)
+![image-20220909111736568](franchtimes.assets/image-20220909111736568.png)
 
-![image-20220909111744285](法语的时态.assets/image-20220909111744285.png)
+![image-20220909111744285](franchtimes.assets/image-20220909111744285.png)
 
 ## 3.最近过去时
 
@@ -209,7 +215,7 @@ L’été dernier, je suis allé chez mes grands-parents.
 Il avait six ans lorsque son père est parti pour le Maroc.
 On regardait la télé quand on a frappé à la porte.
 
-![image-20220909111851880](法语的时态.assets/image-20220909111851880.png)
+![image-20220909111851880](franchtimes.assets/image-20220909111851880.png)
 
 
 
@@ -229,9 +235,9 @@ J’enverrai cette lettre dans deux jours. 我两天后寄这封信。
 
 #### ●根据人称顺序，在动词不定式后边分别添加词尾-ai, -as, -a, -ons, -ez,-ont。
 
-![image-20220909112045160](法语的时态.assets/image-20220909112045160.png)
+![image-20220909112045160](franchtimes.assets/image-20220909112045160.png)
 
-![image-20220909112055467](法语的时态.assets/image-20220909112055467.png)
+![image-20220909112055467](franchtimes.assets/image-20220909112055467.png)
 
 #### ■ 以-re 结尾的第三组动词变简单将来时形式，要先去掉原形动词词尾的字母e，然后再加上述词尾。
 
@@ -244,7 +250,7 @@ mettre → je mettrai, croire → ils croiront
 
 
 
-![image-20220909112125839](法语的时态.assets/image-20220909112125839.png)
+![image-20220909112125839](franchtimes.assets/image-20220909112125839.png)
 
 ## 2.最近将来时
 

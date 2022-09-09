@@ -1,7 +1,7 @@
 ---
 title: hexo的使用方法
 date: 2021-07-19 07:43:26
-tags: hexo
+tags: tools
 ---
 ## 环境搭建
 

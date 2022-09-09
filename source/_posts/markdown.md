@@ -1,7 +1,7 @@
 ---
 title: Markdown的使用方法
 date: 2021-07-19 07:44:00
-tags: markdown
+tags: tools
 ---
 
 ## Markdown是什么
@@ -158,7 +158,7 @@ hello world
 ## 代码 
 
 ```
-​```java +回车    可以指定语言
+```java +回车    可以指定语言
 ```
 
 <img src="C:\Users\xuchu\AppData\Roaming\Typora\typora-user-images\image-20210627184001314.png" alt="image-20210627184001314" style="zoom: 80%;" /
